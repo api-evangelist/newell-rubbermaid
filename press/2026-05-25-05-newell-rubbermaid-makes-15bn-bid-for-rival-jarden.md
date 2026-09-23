@@ -1,7 +1,9 @@
 ---
 title: Newell Rubbermaid makes $15bn bid for rival Jarden
 url: https://www.bbc.com/news/business-35098302
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Newell Rubbermaid" press release artificial intelligence'
 position: 5
 source: serpapi-google
